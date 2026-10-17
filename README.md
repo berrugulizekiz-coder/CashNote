@@ -22,3 +22,4 @@ React, TypeScript, Vite, Tailwind CSS
 ## Ekran Görüntüsü
 
 ![CashNote uygulama ekranı](public/ekran-goruntusu.png)
+
